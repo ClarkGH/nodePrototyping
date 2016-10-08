@@ -1,0 +1,22 @@
+{
+  "name": "node-prototype1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ClarkGH/nodePrototyping.git"
+  },
+  "author": "Clark Hinchcliff",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ClarkGH/nodePrototyping/issues"
+  },
+  "homepage": "https://github.com/ClarkGH/nodePrototyping#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
