@@ -13,7 +13,7 @@ module.exports = options => {
             {
               loader: 'babel-loader',
               options: {
-                cacheDirectory: true,
+                cacheDirectory: true
               },
             },
           ],
