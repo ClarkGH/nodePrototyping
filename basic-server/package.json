@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "scripts": {
+    "dev": "webpack-dev-server --env.dev",
+    "build": "webpack"
+  },
+  "name": "practice",
+  "version": "1.0.0",
+  "description": "express practice",
+  "main": "server.js",
+  "devDependencies": {
+    "webpack": "^3.8.1",
+    "webpack-dev-server": "^2.9.3"
+  },
+  "author": "Clark Hinchcliff",
+  "license": "MIT"
+}
