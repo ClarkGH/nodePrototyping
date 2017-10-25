@@ -1,3 +1,5 @@
+// Set up server after idea fully fleshed out
+
 const express = require('express'),
   path = require('path');
 

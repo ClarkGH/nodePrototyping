@@ -3,8 +3,8 @@ import ReactDOM from 'react-dom';
 
 const styles = {
   app: {
-    paddingTop: 40,
-    textAlign: 'center',
+    backgroundColor: '#ddd',
+    color: '#fff'
   },
 }
 
