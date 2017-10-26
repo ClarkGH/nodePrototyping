@@ -1,10 +1,12 @@
 // Set up server after idea fully fleshed out
 
 const express = require('express'),
-  path = require('path');
+  path = require('path'),
+  app = express();
+
 
 app.get('/', (req, res) => {
-  res.send('Hello.');
+  res.sendFile(path.join(__dirname+'/index.html'));
 });
 
 app.listen(3000, () => {
